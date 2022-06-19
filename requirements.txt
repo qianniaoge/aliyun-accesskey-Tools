@@ -25,7 +25,7 @@ pocsuite3==1.6.5
 prompt-toolkit==3.0.8
 pycparser==2.20
 pygame==2.0.0
-Pygments==2.7.3
+Pygments==2.7.4
 pyinstaller==4.1
 pyinstaller-hooks-contrib==2020.10
 PyQt5==5.15.1
